@@ -9,4 +9,5 @@ yarn global add parcel-bundler
 parcel src/index.html
 
 # 项目打包
-parcel build src/index.html --no-minify --public-url ./
+yarn build
+<!-- parcel build src/index.html --no-minify --public-url ./ -->
